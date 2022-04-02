@@ -1,7 +1,6 @@
 # electromagnetic_field_demo
- 适用于电磁场与电磁波以及微波技术的学习教学 
- 
- 该程序是基于matlab的app演示，适用于辅助电磁场与电磁波学习理解。
+
+  该程序基于matlab的app演示，适用于辅助电磁场与电磁波学习理解。
  
  ## 环境
  编写使用了matlab2022。运行所需的matlab版本需要支持matlab APP。
