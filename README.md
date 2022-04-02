@@ -1,11 +1,12 @@
-# app_main
+# electromagnetic_field_demo
  - 适用于电磁场与电磁波以及微波技术的学习教学 
  
  该程序是基于matlab的app演示，适用于辅助电磁场与电磁波学习理解。
  
- matlab的版本需要支持matlab APP的运行。
+ ## 环境
+ 编写使用了matlab2022。运行所需的matlab版本需要支持matlab APP。
  
- 程序结构为：
+ ## 程序结构为：
  ```mermaid
 graph LR
 A[main1] -->B[main2]
@@ -13,6 +14,7 @@ B --> C[app1]
 B --> D[app2]
 ```
 
+## 界面展示
 - 主界面： 
 
 ![main1](images/image1.jpg)
