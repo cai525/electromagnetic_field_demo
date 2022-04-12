@@ -11,21 +11,29 @@ graph LR
 A[main1] -->B[main2]
 B --> C[app1]
 B --> D[app2]
+B --> E[app3]
 ```
-
+文件已经打包在[app package文件夹](./app package),可以直接下载
 ## 界面展示
 - 主界面： 
 
 ![main1](images/image1.jpg)
 - 选择界面：
-
-![main2](images/image2.jpg)
+<div align="center">
+    <img src="images/image2.jpg" alt="main2">
+ </div>
+  
 - 仿真1 —— 均匀平面电磁波传播的仿真：
 
 ![app1](images/image3.jpg)
 - 仿真2 —— 均匀平面电磁波的入射、反射、折射：
 
 ![app2](images/image4.jpg)
+
+- 仿真3 —— 电磁波沿波导传输,参考[Katelyn Brinker的作品](https://www.mathworks.com/matlabcentral/fileexchange/98779-rectangular-waveguide-simulator)：  
+
+
+![app3](images/image5.jpg)
 
 > **—— by Pengfei Cai, dlut, 2022**
 
