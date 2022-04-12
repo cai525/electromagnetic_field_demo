@@ -19,8 +19,9 @@ B --> E[app3]
 
 ![main1](images/image1.jpg)
 - 选择界面：
-
-![main2](images/image2.jpg)
+<dive align="center">
+  ![main2](images/image2.jpg)
+  </dive>
 - 仿真1 —— 均匀平面电磁波传播的仿真：
 
 ![app1](images/image3.jpg)
@@ -28,7 +29,7 @@ B --> E[app3]
 
 ![app2](images/image4.jpg)
 
-- 仿真3 —— 电磁波沿波导传输【参考[Katelyn Brinker的作品](Rectangular Waveguide Simulator - File Exchange - MATLAB Central (mathworks.com))】：  
+- 仿真3 —— 电磁波沿波导传输,参考[Katelyn Brinker的作品](https://www.mathworks.com/matlabcentral/fileexchange/98779-rectangular-waveguide-simulator)：  
 
 
 ![app3](images/image5.jpg)
