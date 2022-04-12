@@ -11,6 +11,7 @@ graph LR
 A[main1] -->B[main2]
 B --> C[app1]
 B --> D[app2]
+B --> E[app3]
 ```
 
 ## 界面展示
@@ -26,6 +27,11 @@ B --> D[app2]
 - 仿真2 —— 均匀平面电磁波的入射、反射、折射：
 
 ![app2](images/image4.jpg)
+
+- 仿真3 —— 电磁波沿波导传输【参考[Katelyn Brinker的作品](Rectangular Waveguide Simulator - File Exchange - MATLAB Central (mathworks.com))】：  
+
+
+![app3](images/image5.jpg)
 
 > **—— by Pengfei Cai, dlut, 2022**
 
