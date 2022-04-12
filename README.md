@@ -13,7 +13,7 @@ B --> C[app1]
 B --> D[app2]
 B --> E[app3]
 ```
-文件已经打包在[app package文件夹](./app package),可以直接下载
+文件已经打包在[app package文件夹](app_package), 在本地打开该安装程序，即可安装该app
 ## 界面展示
 - 主界面： 
 
