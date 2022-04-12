@@ -19,9 +19,10 @@ B --> E[app3]
 
 ![main1](images/image1.jpg)
 - 选择界面：
-<dive align="center">
+<div align="center">
   ![main2](images/image2.jpg)
-  </dive>
+ </div>
+  
 - 仿真1 —— 均匀平面电磁波传播的仿真：
 
 ![app1](images/image3.jpg)
