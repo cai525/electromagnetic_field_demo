@@ -1,0 +1,103 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="3546963762" file="E:\file\教材\【大三下】\微波技术与天线\实验\我的实验\app_main\Make electromagnetic fields visible.prj" location="E:\file\教材\【大三下】\微波技术与天线\实验\我的实验\app_main" name="Make electromagnetic fields visible" target="target.mlapps" target-name="打包为 App">
+    <param.appname>Make electromagnetic fields visible</param.appname>
+    <param.authnamewatermark>good_luck_cpf</param.authnamewatermark>
+    <param.email>good_luck_cpf@163.com</param.email>
+    <param.company>DLUT</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary>用于电磁场与微波学习的app
+(an app designed to help 
+better understand  electromagnetic fields and microwaves)</param.summary>
+    <param.description>包含功能(included functions)：
+（1）平面电磁波传播(Propagation of Plane Electromagnetic Wave )
+（2）均匀电磁波的入射、反射、透射
+(Incidence, reflection and transmission of uniform electromagnetic waves)
+（3）电磁波在波导传播(propagating along the waveguide)
+注意（Note）:功能三基于Katelyn Brinker的作品，原作者享有版权。
+（Function 3 is based on the work of Katelyn Brinker, and the copyright belongs to the original author）(Rectangular Waveguide Simulator - File Exchange - MATLAB Central (mathworks.com))
+欢迎访问我的github主页一起完善该程序。https://github.com/cai525/electromagnetic_field_demo
+（Welcome to visit my github pages to improve the program）</param.description>
+    <param.screenshot>C:\Users\44332\AppData\Local\Temp\tpb057e2f5_9b0b_4877_aa4a_04dba844d2cb.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>61b03a7d-1f8a-4f95-9f7b-de88392e1739</param.guid>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\main1.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\app1.mlapp</file>
+      <file>${PROJECT_ROOT}\app2.mlapp</file>
+      <file>${PROJECT_ROOT}\app3.mlapp</file>
+      <file>${PROJECT_ROOT}\icon2_1.png</file>
+      <file>${PROJECT_ROOT}\main1_2.png</file>
+      <file>${PROJECT_ROOT}\main2.mlapp</file>
+      <file>${PROJECT_ROOT}\main2_1.jpg</file>
+      <file>${PROJECT_ROOT}\main2_2.jpg</file>
+      <file>${PROJECT_ROOT}\main2_3.jpg</file>
+      <file>${PROJECT_ROOT}\main_2_5.jpg</file>
+      <file>${PROJECT_ROOT}\WG1.PNG</file>
+      <file>${PROJECT_ROOT}\WG2.PNG</file>
+    </fileset.depfun>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\licence</file>
+    </fileset.resources>
+    <fileset.package />
+    <build-deliverables>
+      <file location="E:\file\教材\【大三下】\微波技术与天线\实验\我的实验" name="app_main" optional="false">E:\file\教材\【大三下】\微波技术与天线\实验\我的实验\app_main</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>E:\matlab</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+        <toolbox name="gpucoder" />
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <gpucoder>
+          <enabled>true</enabled>
+        </gpucoder>
+      </toolbox>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
