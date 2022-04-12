@@ -20,7 +20,7 @@ B --> E[app3]
 ![main1](images/image1.jpg)
 - 选择界面：
 <div align="center">
-  ![main2](images/image2.jpg)
+    <img src="images/image2.jpg" alt="main2">
  </div>
   
 - 仿真1 —— 均匀平面电磁波传播的仿真：
